@@ -12,3 +12,5 @@
 | rest-api.md           | Details of the Rest API (Spot trading)  现货交易相关api                |
 | errors.md             | Description of possible error messages from the rest api (Spot trading)  现货交易相关错误码    |
 | Market Api Description.md  | Market of the rest api (Spot trading) 现货交易相关行情文档     |
+| python加密工具类.py  | python encryption tool 加密demo python  |
+| 现货API接口demo-JAVA.rar  | java demo |
