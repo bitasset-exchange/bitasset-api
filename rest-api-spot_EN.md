@@ -402,7 +402,7 @@ GET /v1/cash/accounts/order/get
 
 #### Request
 
-POST 1/cash/accounts/orders/get
+POST /v1/cash/accounts/orders/get
 
 ##### URL parameters
 
@@ -463,7 +463,7 @@ POST 1/cash/accounts/orders/get
 
 #### Request
 
-POST 1/cash/accounts/orders/match
+GET 1/cash/accounts/orders/match
 
 ##### URL parameters
 
